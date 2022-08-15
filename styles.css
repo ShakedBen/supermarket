@@ -1,0 +1,41 @@
+body{
+	margin:0;
+	background-color:white;
+	font-family:Verdana;
+	direction:ltr;
+}
+
+.all_site{
+	max-width:960px;
+	background-color:white;
+	margin:0 auto;
+	min-height:500px;
+	padding: 10px;
+	
+}
+
+	
+.prods{
+	width:100%;
+}
+.prods .prod{
+	width:25%;
+	min-height:100px;
+	float:left;
+	border:0px solid #cab814;
+	padding:7px;
+	box-sizeing:border-box;
+}
+.prods .prod h2{
+	text-align:center;
+}
+.prods .prod p{
+	padding-left:7px;
+}
+.prods .prod img{
+    width:  35px;
+    height: 100px;
+    background-size: cover;
+	
+}
+
